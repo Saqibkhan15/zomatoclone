@@ -356,21 +356,21 @@ section h1 {
   background-color: #f8f8f8;
   width: 100%;
   padding: 50px 20px;
-  box-sizing: border-box; /* added */
+  box-sizing: border-box; 
 }
 
 .ftc {
   width: 90%;
   margin: 0 auto;
-  padding: 20px; /* added */
-  box-sizing: border-box; /* added */
+  padding: 20px; 
+  box-sizing: border-box; 
 }
 
 .ft1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-bottom: 20px; /* added */
+  padding-bottom: 20px; 
 
 }
 
